@@ -2,13 +2,12 @@
 title: HOME
 description: HOME
 published: true
-date: 2023-10-27T09:27:07.033Z
+date: 2023-10-27T09:28:44.322Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-27T08:52:48.267Z
 ---
 
-# HOME
 # 故障分类
 
 > [天翼客户端故障](/fyoung-client)
